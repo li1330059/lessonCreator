@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="24" height="24" style="border-color: rgba(187,187,187,1);border-width: 0;border-style: solid" filter="none">
+    
+    <g>
+    <g fill="rgba(15,64,245,1)"><rect width="48" height="48" fill="rgba(15,64,245,1)" fill-opacity="0.01" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" stroke="none" fill-rule="evenodd"></rect><g transform="translate(6.000000, 5.000000)" fill="rgba(15,64,245,1)"><g transform="translate(0.000000, 0.021632)" fill="rgba(15,64,245,1)"><polyline points="0 4.97836848 32 4.97836848 32 36.9783685" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" stroke="rgba(15,64,245,1)" fill="none" fill-rule="evenodd"></polyline><path d="M20.4664367,-6 L20.4664367,39.0238636" transform="translate(20.466437, 16.511932) rotate(-135.000000) translate(-20.466437, -16.511932) " stroke-linecap="round" stroke-linejoin="round" stroke-width="4" stroke="rgba(15,64,245,1)" fill="none" fill-rule="evenodd"></path><polyline transform="translate(20.000000, 16.978368) scale(-1, -1) translate(-20.000000, -16.978368) " points="4 0.978368479 36 0.978368479 36 32.9783685" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" stroke="rgba(15,64,245,1)" fill="none" fill-rule="evenodd"></polyline></g></g></g>
+    </g>
+  </svg>
