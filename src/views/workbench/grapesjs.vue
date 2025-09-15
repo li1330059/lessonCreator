@@ -17,7 +17,7 @@ export default {
   },
   methods: {
     backImage() {
-      document.body.style.backgroundImage = 'URL(../../assets//img//bb.jpg)'
+      document.body.style.backgroundImage = 'URL(../../assets/img/bb.jpg)'
     },
     initEditor() {
       const editor = grapesjs.init({
